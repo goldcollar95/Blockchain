@@ -1,2 +1,3 @@
-# Blockchain
-Typescript로 Blockchain의 프로젝트를 진행
+# Typechain
+
+Learning Typescript by making a Blockchain with it
